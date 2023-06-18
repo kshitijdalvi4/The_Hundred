@@ -125,6 +125,15 @@ word-break: break-all;
 word-wrap: break-word;
 }
 
+.odd{
+    font-weight: 100;
+}
+
+.even{
+    font-weight: bolder;
+    font-size: large;
+}
+
 
 
 
